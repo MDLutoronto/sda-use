@@ -10,4 +10,4 @@ permalink: "/"  #! Remove this if not the homepage
 
 Link to CHASS list of how-to guides for SDA: [http://sda.chass.utoronto.ca/legacy_sda/sda.htm#how_to](http://sda.chass.utoronto.ca/legacy_sda/sda.htm#how_to)
 
-Technique: [Searching for maps and data](/technique/searching-maps-and-data)
+Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data)
