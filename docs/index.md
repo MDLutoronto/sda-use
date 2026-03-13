@@ -1,7 +1,8 @@
 ---
 title: "How to use SDA"
 layout: "home"
-description: ""
+description: "Link to CHASS list of how-to guides for SDA: How-to guides for SDA"
+created_date: 2017-05-05
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -9,6 +10,6 @@ permalink: "/"  #! Remove this if not the homepage
 
  
 
-Link to CHASS list of how\-to guides for SDA:[http://sda.chass.utoronto.ca/legacy\_sda/sda.htm\#how\_to](http://sda.chass.utoronto.ca/legacy_sda/sda.htm#how_to)
+Link to CHASS list of how-to guides for SDA: [http://sda.chass.utoronto.ca/legacy_sda/sda.htm#how_to](http://sda.chass.utoronto.ca/legacy_sda/sda.htm#how_to)
 
-Technique: [Searching for maps and data](/technique/searching-maps-and-data)**Date Created:** 2017\-05\-05**Updated:** 2022\-09\-23
+Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data)
