@@ -4,6 +4,9 @@ layout: "home"
 description: "Link to CHASS list of how-to guides for SDA: How-to guides for SDA"
 created_date: 2017-05-05
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Leanne Trimble
+   link: https://library.utoronto.ca/staff/leanne-trimble
 ---
 
 # How to use SDA
