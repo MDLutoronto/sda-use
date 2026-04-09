@@ -14,5 +14,3 @@ maintainer:
  
 
 Link to CHASS list of how-to guides for SDA: [https://sda.artsci.utoronto.ca/index.html/sda.htm#how_to](https://sda.artsci.utoronto.ca/index.html/sda.htm#how_to)
-
-Technique: [Searching for maps and data](https://mdl.library.utoronto.ca/technique/searching-maps-and-data)
